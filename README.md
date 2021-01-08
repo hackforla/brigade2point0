@@ -40,7 +40,7 @@ Join our twice a month calls to hear what we are talking about - see slack chann
 - Feel free to fork this repository if you want, just be sure to read the licence details below:
 
 
-### Licensing
+#### Licensing
 
 The project is 100% open source and community led.  We provide these resources without charge and expect others to contribute back to the repo -- Our choosen licence reflects that: [GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/hackforla/brigade2point0/blob/main/LICENSE)
 
