@@ -23,25 +23,25 @@ Connect with us via slack at Code for America [#brigade2point0](https://cfa.slac
 
 Join our twice a month calls to hear what we are talking about - see slack channel for details.
 
-### Contributing to this repository
+#### Contributing to this repository
 
 - If you would like to ask for a guide, please [open an issue](https://github.com/hackforla/brigade2point0/issues/new?assignees=&labels=&template=blank-issue.md&title=) with as much detail as possible.
 - If you have something you would like to share, please [open an issue](https://github.com/hackforla/brigade2point0/issues/new?assignees=&labels=&template=blank-issue.md&title=) and provide as much detail as possible.
 - If you would like to add an additional resource or correction to an existing guide, please add a comment on the issue and @mention the author.
 
 
-### Working with branches, PRs and reviews
+#### Working with branches, PRs and reviews
 
 - If you are making an update to this readme, or any other code in the repository (including issue templates), please create it on a new branch and then open a PR.  Then select a reviewer or multiple (if appropriate).  Please don't push your own PRs (unless your the Repository Owner - Hint: you are not).
 
 
-### Working with forks
+#### Working with forks
 
-- Feel free to fork this repository if you want.
+- Feel free to fork this repository if you want, just be sure to read the licence details below:
 
 
 ### Licensing
 
-The project is 100% open source and community led.  We provide these resources without charge and expect others to contribute back to the repo if they fork and improve it -- Our choosen licence reflects that: [GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/hackforla/brigade2point0/blob/main/LICENSE)
+The project is 100% open source and community led.  We provide these resources without charge and expect others to contribute back to the repo -- Our choosen licence reflects that: [GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/hackforla/brigade2point0/blob/main/LICENSE)
 
 *this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)*
