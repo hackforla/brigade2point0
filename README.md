@@ -1,69 +1,43 @@
-# Project title and description
+# Brigade 2.0
 
-Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
+The **Brigade 2.0 working** group's purpose is to provide mutual support for those that are making or have:
+- made their brigades independent financial entities 
+- the goal of having paid staff to create sustainability for the org, it's project and community impact.
 
-{Project Name} is a project of Hack for LA. Hack for LA is a brigade of a Code for America that exists to {your mission}. {Project Name} helps {target users} accomplish {goal of project}. The {app/site/thing you're building}'s main features include {very brief feature descriptions}.
+Anyone is welcome to attend, we just keep the overall conversation focused on achieving those objectives.
 
 ### Project context
-
-Civic projects often exist within a larger context that may include multiple stakeholders, historic relationships, associated research, or other details that are relevant but not *required* for direct contributions. Gathering these details in one place is useful, but the ReadMe isn't that place. Use this section to [link to a Google Doc](#) or other documentation repository where contributors can dig in if they so choose. This is also a good place to link to your Code of Conduct.
+This repository is a place to store and organize links, guidance and other resources for achieving the objectives above.
 
 ### Technology used
+- Google Meet
+- Google Calendar
+- Slack
+- GitHub
 
-- Each platform or framework should get its own bullet.
-- Each platform should include an [active link](#) to the official documentation.
+### How to Learn more and participate
 
+Learn more about us, by watching our [Brigade Congress video](https://www.youtube.com/watch?v=POTH524yj-g)
 
+Connect with us via slack at Code for America [#brigade2point0](https://cfa.slack.com/archives/CTXT8EAMU) (if you don't have a [CfA slack account, signup](http://slack.codeforamercia.org) now)
 
-# How to contribute
+Join our twice a month calls to hear what we are talking about - see slack channel for details.
 
-Explain the different ways people can contribute. For example:
+### Contributing to this repository
 
-- Join the team {on Slack/at our weekly hack night/etc}.
-- To help with user research, {do ABC}.
-- To provide design support, {do XYZ}.
-- To contribute to the code, follow the instructions below.
-
-Remember to provide direct links to each channel.
-
-
-
-## Installation instructions
-
-1. Step-by-step instructions help new contributors get a development environment up and running quickly.
-2. You'll want to find the balance between being specific enough for novices to follow, without being so specific that you reinvent the wheel by providing overly-basic instructions that can be found elsewhere.
-3. Feel free to adapt this section and its sub-sections to your own processes.
-4. Alternatively, you can move everything from *Installation instructions* through *Testing* to a separate **Contributing.md** file to keep your **ReadMe.md** more succinct.
+- If you would like to ask for a guide, please [open an issue](https://github.com/hackforla/brigade2point0/issues/new?assignees=&labels=&template=blank-issue.md&title=) with as much detail as possible.
+- If you have something you would like to share, please [open an issue](https://github.com/hackforla/brigade2point0/issues/new?assignees=&labels=&template=blank-issue.md&title=) and provide as much detail as possible.
+- If you would like to add an additional resource or correct to an existing guide, please add a comment on the issue and @mention the author.
 
 
-### Working with issues
+### Working with branches, PRs and reviews
 
-- Explain how to submit a bug.
-- Explain how to submit a feature request.
-- Explain how to contribute to an existing issue.
-
-To create a new issue, please use the blank issue template (available when you click New Issue).  If you want to create an issue for other projects to use, please create the issue in your own repository and send a slack message to one of your hack night hosts with the link.
+- If you are making an update to this readme, or any other code in the repository (including issue templates), please create it on a new branch and then open a PR.  Then select a reviewer or multiple (if appropriate).  Please don't push your own PRs (unless your the Repository Owner - Hint: you are not).
 
 
-### Working with forks and branches
+### Working with forks
 
-- Explain your guidelines here.
-
-
-### Working with pull requests and reviews
-
-- Explain your process.
-
-
-### Testing
-
-- Provide instructions.
-
-
-
-# Contact info
-
-Include at least one way (or more, if possible) to reach your team with questions or comments.
+- Feel free to fork this repository if you want.
 
 
 ### Licensing
