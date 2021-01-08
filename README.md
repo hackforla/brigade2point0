@@ -42,6 +42,6 @@ Join our twice a month calls to hear what we are talking about - see slack chann
 
 ### Licensing
 
-Include details about the project's open source status.
+The project is 100% open source and community led.  We provide these resources without charge and expect others to contribute back to the repo if they fork and improve it -- Our choosen licence reflects that: [GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/hackforla/brigade2point0/blob/main/LICENSE)
 
 *this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)*
