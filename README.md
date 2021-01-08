@@ -32,12 +32,12 @@ Join our twice a month calls to hear what we are talking about - see slack chann
 
 #### Working with branches, PRs and reviews
 
-- If you are making an update to this readme, or any other code in the repository (including issue templates), please create it on a new branch and then open a PR.  Then select a reviewer or multiple (if appropriate).  Please don't push your own PRs (unless your the Repository Owner - Hint: you are not).
+If you are making an update to this readme, or any other code in the repository (including issue templates), please create it on a new branch and then open a PR.  Then select a reviewer or multiple (if appropriate).  Please don't push your own PRs (unless your the Repository Owner - Hint: you are not).
 
 
 #### Working with forks
 
-- Feel free to fork this repository if you want, just be sure to read the licence details below:
+Feel free to fork this repository if you want, just be sure to read the licence details below:
 
 
 #### Licensing
