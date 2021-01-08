@@ -9,6 +9,11 @@ Anyone is welcome to attend, we just keep the overall conversation focused on ac
 ### Project context
 This repository is a place to store and organize links, guidance and other resources for achieving the objectives above.
 
+| Internal Projects | Details | In Use? | Status |
+|:--|:--|:--|:--|
+| [Adding a GitHub sponsors button to your repository](https://github.com/hackforla/brigade2point0/issues/1) |  Summary of GitHub sponsors with CfA and without | politicking | ✅ includes instruction & waiting for CfA to setup |
+
+
 ### Technology used
 - Google Meet
 - Google Calendar
