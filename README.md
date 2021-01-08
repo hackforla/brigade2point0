@@ -27,7 +27,7 @@ Join our twice a month calls to hear what we are talking about - see slack chann
 
 - If you would like to ask for a guide, please [open an issue](https://github.com/hackforla/brigade2point0/issues/new?assignees=&labels=&template=blank-issue.md&title=) with as much detail as possible.
 - If you have something you would like to share, please [open an issue](https://github.com/hackforla/brigade2point0/issues/new?assignees=&labels=&template=blank-issue.md&title=) and provide as much detail as possible.
-- If you would like to add an additional resource or correct to an existing guide, please add a comment on the issue and @mention the author.
+- If you would like to add an additional resource or correction to an existing guide, please add a comment on the issue and @mention the author.
 
 
 ### Working with branches, PRs and reviews
